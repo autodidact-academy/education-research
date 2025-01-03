@@ -37,7 +37,7 @@ For young adults whose brains are still developing until roughly age 25–26 (Jo
 - Increased susceptibility to cardiovascular disease and metabolic disorders.
 - Young people who are forced by social or familial pressure into degree programs may experience diminished mental health and cognitive resilience—outcomes worsened when they must also juggle part-time jobs, caretaking - responsibilities, or heavy loan burdens.
 
-# Resaerch and Studies I am studying 🙂 to support my thesis
+# Studies I am studying 🙂 to support my thesis
 
 - Burning Glass. (2020). The New Foundational Skills of the Digital Economy.
 - Ebbinghaus, H. (1885). Memory: A Contribution to Experimental Psychology.
