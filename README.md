@@ -7,8 +7,8 @@ As a self-taught engineer I am attempting to adovocate Equal Opportunity for Sel
 
 **Please fork or star this project if you are interested in helping 🙂**
 
-I'm currently still collecting the data and writing the analysis code,
-but here are my initial findings:
+_I'm currently still collecting the data and developing the analytics code,<br>
+but here are my initial findings:_
 
 ## Socioeconomic Disparities
 When a degree is required—particularly a four-year, on-campus degree—low-income and marginalized students face higher financial and logistical hurdles. The policy of requiring degrees systematically excludes:
